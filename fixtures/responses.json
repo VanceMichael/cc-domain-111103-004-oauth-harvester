@@ -1,0 +1,10 @@
+{
+  "refresh-a": {
+    "status": "rotated",
+    "generation": 5
+  },
+  "refresh-b": {
+    "status": "timeout_after_rotation",
+    "generation": 3
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "organization": "cooperative-a",
+    "generation": 4,
+    "expires_at": 1800000000,
+    "access_token": "synthetic-a",
+    "refresh_token": "synthetic-refresh-a"
+  },
+  {
+    "organization": "cooperative-b",
+    "generation": 2,
+    "expires_at": 1700000000,
+    "access_token": "synthetic-b",
+    "refresh_token": "synthetic-refresh-b"
+  }
+]
