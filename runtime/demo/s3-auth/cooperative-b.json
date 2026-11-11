@@ -1,0 +1,11 @@
+{
+  "organization": "cooperative-b",
+  "generation": 2,
+  "expires_at": 1700000000,
+  "access_token": "synthetic-b",
+  "refresh_token": "synthetic-refresh-b",
+  "status": "active",
+  "paused": false,
+  "pending": null,
+  "reauth_reason": null
+}
